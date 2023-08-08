@@ -1,1 +1,1 @@
-A webpage the right way, Header.
+A webpage the right way, Header. haeder/hero piece done. (have to make page responsice and move hamburger next to logo, in mobile width)
